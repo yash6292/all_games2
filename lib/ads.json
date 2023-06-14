@@ -1,0 +1,57 @@
+{
+  "status": "success",
+  "data": {
+    "adsclicklimit": "1",
+    "game_title": "All Games - All In One Game",
+    "game_url": "https://play.google.com/store/apps/details?id=com.games.all_games_in_one_game",
+    "game_version": "1.0.1",
+    "open_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_AllGames_AmdavadiInfotech_AppOpen_130323_InApp",
+    "inter_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_AllGames_AmdavadiInfotech_Interstitial_130323_InApp",
+    "native_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_AllGames_AmdavadiInfotech_Native_130323_InApp",
+    "banner_ad_id": "/229445249,22889861963/DWTag-DFPNew_RS90_AllGames_AmdavadiInfotech_Banner_130323_InApp",
+    "getStarted": true,
+    "homeMain": true,
+    "homeBack": false,
+    "categoryMain": true,
+    "categoryBack": false,
+    "settingIcon": true,
+    "settingBack": false,
+    "gameListMain": true,
+    "gameListBack": false,
+    "recentPlay": true,
+    "rateUs": false,
+    "shareApp": true,
+    "playMain": true,
+    "playBack": false,
+    "playSimilar": true,
+    "play2Main": true,
+    "play2Back": false,
+    "play2Similar": true
+  },
+  "ads_data": {
+    "home_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
+      "img_url": "https://play-lh.googleusercontent.com/3hJuP1VydcYGYwQZNYaB5L0T5shK2yxlLLvhSnvVuc6SHTMyoMYrdyTfeVTtuTKLrSU=w240-h480-rw",
+      "app_name": "All HD Movies: Watch Online",
+      "sub_title": "Install this All HD Movies: Watch Online"
+    },
+    "cat_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
+      "img_url": "https://play-lh.googleusercontent.com/3hJuP1VydcYGYwQZNYaB5L0T5shK2yxlLLvhSnvVuc6SHTMyoMYrdyTfeVTtuTKLrSU=w240-h480-rw",
+      "app_name": "All HD Movies: Watch Online",
+      "sub_title": "Install this All HD Movies: Watch Online"
+    },
+    "game_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.movies.allhdmovies",
+      "img_url": "https://play-lh.googleusercontent.com/3hJuP1VydcYGYwQZNYaB5L0T5shK2yxlLLvhSnvVuc6SHTMyoMYrdyTfeVTtuTKLrSU=w240-h480-rw",
+      "app_name": "All HD Movies: Watch Online",
+      "sub_title": "Install this All HD Movies: Watch Online"
+    },
+    "setting_page": {
+      "app_url": "https://play.google.com/store/apps/details?id=com.ringtone.mahadevringtone",
+      "img_url": "https://play-lh.googleusercontent.com/JO9DO5q0juBiAWT-G7K80XtpMsQInbpZxK-pzCw_awlmT-gIScy83Bp8TmgHTNQJiX8=w240-h480-rw",
+      "app_name": "Mahadev Ringtones शिव रिंगटोन",
+      "sub_title": "Install this Mahadev Ringtones शिव रिंगटोन"
+    }
+  }
+}
